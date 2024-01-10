@@ -1,5 +1,9 @@
 ## Jogo da Velha
 
+
+https://github.com/edumachadodarosa/jogodavelha/assets/145352273/fb7ebb4c-dabc-4014-8f69-d5c87b292091
+
+
 Este repositório contém um projeto simples de Jogo da Velha, implementado usando HTML, CSS e JavaScript. O jogo oferece uma interface gráfica básica para dois jogadores alternarem movimentos em um tabuleiro de 3x3.
 
 Recursos 
